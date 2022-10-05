@@ -1,0 +1,1 @@
+# Simple springboot Hexagon Archtecture sample with H2 ( In Memory ) database and springboot JPA 
